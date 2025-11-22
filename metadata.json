@@ -1,0 +1,5 @@
+{
+  "name": "WaveForge - Wavetable Synthesizer Builder",
+  "description": "A professional-grade, visual wavetable creator. features math-based generation, image-to-wavetable conversion, harmonic additive synthesis, and 3D spectral visualization with Serum-compatible WAV export.",
+  "requestFramePermissions": []
+}
