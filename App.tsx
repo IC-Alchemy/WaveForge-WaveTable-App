@@ -236,7 +236,7 @@ const App: React.FC = () => {
           </div>
           <div>
              <h1 className="text-2xl font-bold tracking-tight text-white">WaveForge</h1>
-             <p className="text-xs text-gray-400">Pro Wavetable Architect</p>
+             <p className="text-xs text-gray-400">by IC Alchemy</p>
           </div>
         </div>
         
